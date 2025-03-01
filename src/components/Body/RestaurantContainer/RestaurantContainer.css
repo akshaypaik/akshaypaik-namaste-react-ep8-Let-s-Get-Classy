@@ -1,0 +1,15 @@
+.res-container-main{
+    margin-left: 36px;
+}
+
+.res-container-filters{
+    display: flex;
+    justify-content: space-between;
+}
+
+.res-container{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 40px;
+    justify-content: space-evenly;
+}
