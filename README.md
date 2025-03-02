@@ -37,6 +37,9 @@ Currently, two official plugins are available:
     - Server side routing
 
 
+    # Class based component refer -> User.jsx file and Contact.jsx file
+
+
 
 
 

@@ -17,7 +17,7 @@ export default function RestaurantCard({ resObj }) {
     }
 
     return (
-        <div className="res-card" onMouseOver={onMouseOverCardHover} onMouseLeave={onMouseLeaveCardHover}>
+        <div className="res-card" onMouseEnter={onMouseOverCardHover} onMouseLeave={onMouseLeaveCardHover}>
             <img className='res-logo' src={restaurantImage} />
             <div className='res-desc'>
                 <h3>
